@@ -9,6 +9,7 @@ Enter username and password on the index page.
 Example :-> 
 
 username : yashasvi.girdhar
-paswword : abc123
+
+password : abc123
 
 Only valid for students ID right now, not the research Ids.
